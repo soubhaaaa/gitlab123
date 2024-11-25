@@ -1,0 +1,4 @@
+welcome to git lab
+execute the commands
+sequeance order
+up to 10 exeperiments
